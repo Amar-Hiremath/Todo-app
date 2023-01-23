@@ -54,7 +54,7 @@ function App() {
   return (
     <div className="background">
       <div className="container">
-        <h3 className="heading">Todo App</h3>
+        <h3 className="heading"> My Todo App</h3>
         <form className="from">  
           <input
             value={input}
