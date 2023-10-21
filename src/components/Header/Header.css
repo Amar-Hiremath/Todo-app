@@ -1,0 +1,14 @@
+.heading {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.8);
+    padding: 2px;
+    padding-bottom: 0px;
+    margin: 20px 0px 5px 0px ;    
+  }
+  .mode{
+    margin: 2px;
+    position: absolute;
+    right: 5px;
+  }

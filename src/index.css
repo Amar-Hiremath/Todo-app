@@ -4,6 +4,5 @@ body{
     overflow-x:hidden;
     height:100%;
     width:100%;
-    font-family:sans-serif;
-    background: linear-gradient(to right, #2F80ED,#1CB5E0);
+    font-family:sans-serif;   
   }
